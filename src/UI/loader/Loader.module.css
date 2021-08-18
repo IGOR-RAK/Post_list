@@ -1,0 +1,18 @@
+.myLoader {
+  width: 200px;
+  height: 200px;
+  border: 5px dashed teal;
+  border-radius: 50%;
+  animation: rotate 5s infinite linear;
+}
+
+@keyframes rotate {
+  from {
+    border-color: rgb(138, 144, 228);
+    transform: rotate(0deg) scale(1);
+  }
+  to {
+    transform: rotate(360deg) scale(1.5);
+    border-color: teal;
+  }
+}
