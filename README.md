@@ -1,2 +1,2 @@
 # Post_list
-Created with CodeSandbox
+netlify link https://csb-m4ded.netlify.app/
